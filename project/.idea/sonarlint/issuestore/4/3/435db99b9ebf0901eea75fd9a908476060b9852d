@@ -1,15 +1,0 @@
-
-g
-java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(µÎ Àúÿÿÿÿ
-c
-java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(âÄÖıÿÿÿÿ
-S	java:S106&"9Replace this use of System.out or System.err by a logger.(òıÂ¸ùÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(—íú 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œğ·ê
-c
-java:S2095+"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(âÄÖıÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(†²‹
-^
-java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(õğêí
-b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ïèé8­è¤¢‰/
-N	java:S1064"9Replace this use of System.out or System.err by a logger.(Ñ“Çî
