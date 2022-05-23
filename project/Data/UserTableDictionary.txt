@@ -1,0 +1,25 @@
+Demonstration
+employee
+id;int;pk
+name;varchar
+
+<<<<<<< HEAD
+Demonstration
+salary
+amount;int
+employeeid(Salary);int;fk;employee;id:(employee)
+=======
+neeh
+pkTest
+id;int
+
+Demonstration
+employee
+name;varchar
+id;int;pk
+
+Demonstration
+salary
+amount;int
+employeeid;int;fk;employee;id
+>>>>>>> b7391bdaed139907fab7a07f084c63550e92530d

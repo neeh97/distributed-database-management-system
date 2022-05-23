@@ -1,0 +1,1 @@
+employeeid(Salary);int;fk;employee;id:(employee)

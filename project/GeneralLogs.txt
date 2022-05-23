@@ -1,0 +1,7 @@
+[dhr] [Total time]2 milliseconds
+[dhr] [Total time] [Insert Query]1 milliseconds
+[dhr] [Total time] [Insert Query]1 milliseconds
+[dhr] [Total time] [Insert Query]1 milliseconds
+[dhr] [Total time] [Insert Query]1 milliseconds
+[dhr] [Total time] [Insert Query]1 milliseconds
+[dhr] [Total time] [Insert Query]2 milliseconds

@@ -1,0 +1,51 @@
+
+h
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ùìþöþÿÿÿÿ8ƒæú¿‰/
+f
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(öäÄB8Çûú¿‰/
+Z	java:S899";Do something with the "boolean" value returned by "delete".(‘§…öýÿÿÿÿ8ƒæú¿‰/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çš…â8ƒæú¿‰/
+x	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(…„­Üûÿÿÿÿ8ƒæú¿‰/
+l
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ü•åãÿÿÿÿÿ8Çûú¿‰/
+Z
+java:S1854"?Remove this useless assignment to local variable "currentLine".(¢÷©¯8ƒæú¿‰/
+J
+java:S5411"*Use the primitive boolean expression here.(½šÖŒùÿÿÿÿ8ƒæú¿‰/
+i
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(æ•¢Þ8ƒæú¿‰/
+h
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(äõÊûûÿÿÿÿ8Çûú¿‰/
+o
+java:S3008"TRename this field "SEMICOLON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý¢Ð‰8ƒæú¿‰/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Àåé¯8ƒæú¿‰/
+<
+java:S1643"Use a StringBuilder instead.(¸‡±æûÿÿÿÿ8ƒæú¿‰/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü†—¢8áÓÆˆ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(úƒ…Ó8ƒæú¿‰/
+c
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ÿë¯×8ƒæú¿‰/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãƒªÒ8ƒæú¿‰/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ïÒÔÊþÿÿÿÿ8ƒæú¿‰/
+l
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÃÖ§óþÿÿÿÿ8ƒæú¿‰/
+U	java:S899";Do something with the "boolean" value returned by "delete".(æ•¢Þ8ƒæú¿‰/
+n
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(‘§…öýÿÿÿÿ8ƒæú¿‰/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Î’Çâÿÿÿÿÿ8ƒæú¿‰/
+J
+java:S5411"*Use the primitive boolean expression here.(½šÖŒùÿÿÿÿ8ƒæú¿‰/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¦ñ³¦øÿÿÿÿ8ƒæú¿‰/
+r
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(üÀÞªùÿÿÿÿ8ƒæú¿‰/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÃ˜Ïúÿÿÿÿ8ƒæú¿‰/
+\	java:S899"=Do something with the "boolean" value returned by "renameTo".(ù¸øÚúÿÿÿÿ8ƒæú¿‰/
+h
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ùìþöþÿÿÿÿ8ƒæú¿‰/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Àåé¯8ƒæú¿‰/
+J
+java:S5411"*Use the primitive boolean expression here.(ó—¹Úúÿÿÿÿ8ƒæú¿‰/
+J
+java:S5411"*Use the primitive boolean expression here.(ñ˜©Üýÿÿÿÿ8ƒæú¿‰/
+J
+java:S5411"*Use the primitive boolean expression here.(¿…äìüÿÿÿÿ8ƒæú¿‰/

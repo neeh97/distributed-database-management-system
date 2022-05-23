@@ -1,0 +1,2 @@
+childid;int;fk;parent;id
+childId2;int;fk;parent2;parentId

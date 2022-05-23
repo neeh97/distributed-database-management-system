@@ -1,0 +1,4 @@
+employee
+name;varchar
+id;int;pk
+

@@ -1,0 +1,44 @@
+
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(ÉÚõš8›ÿ´ò‰/
+>
+java:S1170"!Make this final field static too.(ª×„½8›ÿ´ò‰/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(è„ßŒ8›ÿ´ò‰/
+e
+java:S2095+"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Íöøş8›ÿ´ò‰/
+e
+java:S2095*"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(‰Î€8›ÿ´ò‰/
+C
+java:S1170"!Make this final field static too.(œ°ª€øÿÿÿÿ8›ÿ´ò‰/
+Z
+java:S1854U"=Remove this useless assignment to local variable "operation".(ßÉ¸8›ÿ´ò‰/
+C
+java:S1170"!Make this final field static too.(À¸Ú¥şÿÿÿÿ8›ÿ´ò‰/
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(É·å8›ÿ´ò‰/
+K
+java:S1481U".Remove this unused "operation" local variable.(ßÉ¸8›ÿ´ò‰/
+C
+java:S1170"!Make this final field static too.(…Û¥ïùÿÿÿÿ8›ÿ´ò‰/
+=
+java:S1170"!Make this final field static too.(–œçz8›ÿ´ò‰/
+j
+java:S2095,"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(µø½¤ùÿÿÿÿ8›ÿ´ò‰/
+X	java:S125'"<This block of commented-out lines of code should be removed.(©õÊ‰8›ÿ´ò‰/
+C
+java:S1170"!Make this final field static too.(Ÿº·”ÿÿÿÿÿ8›ÿ´ò‰/
+Z
+java:S18545">Remove this useless assignment to local variable "conditions".(¯Ï!8È˜¶ò‰/
+Z
+java:S18544"=Remove this useless assignment to local variable "tableName".(ï¬ø–8È˜¶ò‰/
+]
+java:S18543";Remove this useless assignment to local variable "columns".(·©¢Ôùÿÿÿÿ8È˜¶ò‰/
+U
+java:S18542"8Remove this useless assignment to local variable "type".(À”Ñí8È˜¶ò‰/
+]	java:S1256"<This block of commented-out lines of code should be removed.(Œû¼üÿÿÿÿ8È˜¶ò‰/
+F
+java:S14812")Remove this unused "type" local variable.(À”Ñí8È˜¶ò‰/
+N
+java:S14813",Remove this unused "columns" local variable.(·©¢Ôùÿÿÿÿ8È˜¶ò‰/
+K
+java:S14814".Remove this unused "tableName" local variable.(ï¬ø–8È˜¶ò‰/
+K
+java:S14815"/Remove this unused "conditions" local variable.(¯Ï!8È˜¶ò‰/
